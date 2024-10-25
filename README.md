@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=weiningwei&theme=radical)](https://git.io/streak-stats)
+
 ![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiningwei&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiningwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **weiningwei/weiningwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
