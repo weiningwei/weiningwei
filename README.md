@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=weiningwei&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=weiningwei&theme=radical&date_format=Y-m-d)](https://git.io/streak-stats)
 
 ![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiningwei&show_icons=true&theme=radical&count_private=true)
 
