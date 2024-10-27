@@ -4,7 +4,7 @@
 
 ![Wei's GitHub stats](https://github-readme-stats-kappa-nine-79.vercel.app/api?username=weiningwei&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiningwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-nine-79.vercel.app/api/top-langs/?username=weiningwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
