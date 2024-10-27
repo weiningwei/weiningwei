@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=weiningwei&theme=radical&date_format=Y-m-d)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=weiningwei&theme=radical&date_format=Y-m-d)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight-beta.vercel.app?user=weiningwei&theme=radical&locale=zh_Hans&date_format=Y-m-d)](https://git.io/streak-stats)
 
 <!-- https://github-readme-stats.vercel.app -->
 <!-- https://github-readme-stats-one-beta-12.vercel.app -->
